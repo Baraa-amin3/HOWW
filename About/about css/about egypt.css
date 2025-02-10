@@ -1,0 +1,151 @@
+body{
+    background-color: rgb(220, 209, 127);
+
+
+
+
+
+
+}
+
+
+.the-title{
+
+    text-align: center;
+    text-shadow: 5px 2px 3px rgb(255, 222,79);
+    text-decoration: none  yellow;
+    font-size: 75px;
+    letter-spacing: 6px;
+    cursor:default;
+
+}
+
+
+::selection{
+    background-color: black;
+    color: yellow;
+}
+
+div{
+    cursor: default;
+}
+h2{
+text-decoration:underline;
+
+}
+h3{
+    color: rgb(116, 85, 0);
+}
+
+.lang1{
+    display: inline-block;
+}
+
+
+.hiro{
+    height: 100px;
+    width: 150px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 172%;
+    top: -50px;
+}
+
+.agri1{
+    height: 100px;
+    width: 500px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 40%;
+   
+}
+
+.hiro2{
+    height: 100px;
+    width: 150px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 80%;
+}
+.music5{
+    height: 100px;
+    width: 150px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 80%;
+}
+
+.arch1{
+    height: 100px;
+    width: 150px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 80%;
+}
+.art{
+    height: 100px;
+    width: 150px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 55%;
+}
+.religious{
+    height: 100px;
+    width: 400px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 60%;
+}
+.religious1{
+    height: 150px;
+    width: 100px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 60%;
+}
+.anub7{
+    height: 100px;
+    width: 150px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 80%;
+}
+.solid1{
+    height: 100px;
+    width: 150px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 80%;
+}
+
+.egy5{
+    height: 200px;
+    width: 150px;
+    margin: 0px;
+    border: 0px;
+    position: relative;
+    left: 80%;
+}
+
+.back{
+    border-radius: 4px;
+
+
+
+}
+.menu{
+    text-decoration: none;
+    color: black;
+
+
+}

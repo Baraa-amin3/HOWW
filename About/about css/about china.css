@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(204, 93, 93);
+
+
+
+
+
+
+}
+
+
+.the-title{
+
+    text-align: center;
+    text-shadow: 5px 2px 3px red;
+    text-decoration: none  red;
+    font-size: 75px;
+    letter-spacing: 6px;
+    cursor:default;
+
+
+
+}

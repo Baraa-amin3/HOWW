@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(50, 146, 255);
+
+
+
+
+
+
+}
+
+
+.the-title{
+
+    text-align: center;
+    text-shadow: 5px 2px 3px blue;
+    text-decoration: none  blue;
+    font-size: 75px;
+    letter-spacing: 6px;
+    cursor:default;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+  }
+
+::selection{
+    background-color: rgb(0 3 255);
+    color: rgb(255 255 255);
+}
+
+div{
+    cursor: default;
+}
+
+h2{
+    text-decoration: underline;
+   
+
+
+}
+
+
+h3{ 
+    color:blue;
+
+}
+
+
+.back{
+    border-radius: 4px;
+
+
+}
+
+.menu{
+    text-decoration: none;
+    color: black;
+
+
+}

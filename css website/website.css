@@ -1,0 +1,966 @@
+body{
+    background-color: rgb(3, 48, 39);
+
+}
+
+
+.the-title{
+
+    text-align: center;
+    text-shadow: 5px 2px 3px green;
+    text-decoration: none  green;
+    font-size: 75px;
+    letter-spacing: 6px;
+    cursor:default;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+
+.logo{
+  width: 100px;
+  height: 100px;
+}
+
+
+::selection{
+  background-color: aqua;
+  color:rgb(129, 30, 70);
+}
+
+
+.log-in{
+    display: inline;
+    color:white;
+    padding: 10px 5px ;
+    margin-left: 2%;
+    background-color: rgb(112, 228, 137);
+    border-radius: 4px;
+    word-spacing: 6px;
+    position: relative;
+    top: -110px;
+  
+
+}
+
+.Sign-up{
+  background-color: rgb(112, 228, 137);
+  border-radius: 4px;
+
+}
+
+
+.loginn{
+  background-color: rgb(112, 228, 137);
+  border-radius: 4px;
+
+
+}
+
+
+
+.log{ 
+    text-decoration: none;
+    font-size: 20px;
+ } 
+.sign{ 
+    text-decoration: none;
+    font-size: 20px;
+    } 
+
+
+
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+    position: relative;
+    top: -145px;
+    width: 280px;
+    margin-bottom: -5%;
+    font-weight: 400;
+  
+   
+    
+}
+  
+li{
+  list-style: none;
+  }
+  
+  
+li a{   
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  }
+
+
+
+
+
+
+.countries{
+
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+/* justify-content: space-between; */
+
+
+
+}    
+
+
+.countries div{
+  margin-left: 2.5% ;
+  margin-right: 2.5%;
+}
+
+.countries2{
+
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  /* justify-content: space-between; */
+
+  
+  
+  }    
+  
+  
+.countries2 div{
+    margin-left: 2.5% ;
+    margin-right: 2.5%;
+ 
+
+  }
+
+
+.countries3{
+
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  /* justify-content: space-between; */
+
+    
+    
+    }    
+    
+    
+.countries3 div{
+      margin-left: 2.5% ;
+      margin-right: 2.5%;
+   
+  
+    }
+
+.Egypt1{
+text-decoration: none;
+font-size: 50px;
+color: rgb(112, 228, 137);
+}    
+
+.Egypt1:hover{
+  color: yellow;
+}
+
+
+
+
+.Iraq1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.Iraq1:hover{
+  color: rgb(0 232 255);
+}
+
+
+
+.china1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.china1:hover{
+  color: red;
+}
+
+
+
+.Greece1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+
+
+
+}
+.Greece1:hover{
+  color: blue;
+}
+
+
+.Italy1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.Italy1:hover{
+  color: rgb(90, 232, 110);
+
+}
+
+
+
+.plastine1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.plastine1:hover{
+  color: rgb(109, 186, 136);
+}
+
+.japan1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.japan1:hover{
+  color: rgb(255, 0, 0);
+}
+
+
+
+.england1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.england1:hover{
+  color: rgb(235, 121, 27);
+}
+
+
+
+
+
+.france1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.france1:hover{
+  color: rgb(26, 26, 168);
+}
+
+
+
+
+
+.south-korea1{
+  text-decoration: none;
+  font-size: 30px;
+  color: rgb(112, 228, 137);
+}
+
+.south-korea1:hover{
+  color: rgb(79, 31, 119);
+}
+
+
+.Algeria1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.Algeria1:hover{
+  color: rgb(22 159 117);
+}
+
+
+.turkey1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.turkey1:hover{
+  color: rgb(155, 0, 0);
+}
+
+.spain1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+
+
+.spain1:hover{
+  color: rgb(255, 151, 0);
+}
+
+.morocco1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.morocco1:hover{
+  color: red;
+}
+
+.india1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+ 
+
+.india1:hover{
+  color: rgb(255,151, 4);
+}
+
+
+
+.portugal1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.portugal1:hover{
+  color: rgb(255, 151, 0);
+}
+
+
+
+.brazil1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.brazil1:hover{
+  color: rgb(54 125 48);
+}
+
+
+
+
+
+.argentina1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.argentina1:hover{
+  color: rgb(50 109 192);
+}
+
+
+
+
+.colombia1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.colombia1:hover{
+  color: rgb(255,151, 4);
+}
+
+
+.uruguay1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.uruguay1:hover{
+  color: blue;
+}
+
+
+.germany1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.germany1:hover{
+  color: rgb(255, 151, 0);
+}
+
+.tunisia1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.tunisia1:hover{
+  color: red;
+}
+
+.united-states1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.united-states1:hover{
+  color: blue;
+}
+
+.russia1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.russia1:hover{
+  color: blue;
+}
+
+.mexico1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.mexico1:hover{
+  color: rgb(54 125 48);
+}
+
+
+
+
+
+.estonia1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.estonia1:hover{
+  color: black;
+}
+
+
+.canada1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.canada1:hover{
+  color: red;
+}
+
+
+.lebanon1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.lebanon1:hover{
+  color: red;
+}
+
+
+.qatar1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.qatar1:hover{
+  color: rgb(107 55 55);
+}
+
+
+.kuwait1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+
+.kuwait1:hover{
+  color: rgb(54 125 48);
+}
+
+
+
+.saudi1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.saudi1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+.emirates1{
+  text-decoration: none;
+  font-size: 30px;
+  color: rgb(112, 228, 137);
+}
+
+.emirates1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+.syria1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.syria1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+
+.mauritania1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.mauritania1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+.sudan1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.sudan1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.input-container {
+    margin-left: 80%;
+    width: 220px;
+    position: relative;
+    top: -130px;
+    display: flex;
+    justify-content: end;
+
+  }
+  
+  .icon {
+    position: absolute;
+    right: 10px;
+    top: calc(50% + 5px);
+    transform: translateY(calc(-50% - 5px));
+  }
+  
+  .input {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    transition: .2s linear;
+    border: 2.5px solid black;
+    font-size: 14px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+
+
+
+  }
+  
+  .input:focus {
+    outline: none;
+    border: 0.5px solid black;
+    box-shadow: -5px -5px 0px black;
+  }
+  
+  .input-container:hover > .icon {
+    animation: anim 1s linear infinite;
+  }
+  
+  @keyframes anim {
+    0%,
+    100% {
+      transform: translateY(calc(-50% - 5px)) scale(1);
+    }
+
+    50% {
+      transform: translateY(calc(-50% - 5px)) scale(1.1);
+    }
+  }    
+
+
+.about-us{ 
+  display: flex;
+  justify-content:end;
+  position: relative;
+  top:1000px;
+
+
+
+  
+
+}
+
+
+.about{
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+
+
+}
+
+
+
+
+
+
+.flip-card {
+  background-color: transparent;
+  width: 189px;
+  height: 126px;
+  perspective: 1000px;
+}
+
+.flip-card2 {
+  background-color: transparent;
+  width: 189px;
+  height: 126px;
+  perspective: 1000px;
+  margin-top: 25px;
+
+}
+
+.flip-card3 {
+  background-color: transparent;
+  width: 189px;
+  height: 126px;
+  perspective: 1000px;
+  margin-top: 75px;
+
+}
+
+
+.s1 , .s2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.s1 {
+  background-color: #bbb;
+  color: black;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+  transition: 0.3s;
+
+
+}
+
+.s2 {
+  background-color: #2980b9;
+  color: white;
+  transform: rotateY(180deg);
+
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+  transition: 0.3s;
+
+
+}
+.s1:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.s2:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .inn {
+  transform: rotateY(180deg);
+}
+
+.flip-card2:hover .inn2 {
+  transform: rotateY(180deg);
+}
+
+.flip-card3:hover .inn3 {
+  transform: rotateY(180deg);
+}
+
+.inn {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.3s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+
+.inn2 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.3s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+
+.inn3 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.3s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.Egypt-card-center{
+    padding: 2px 16px;
+  }
+
+
+.Iraq-card-center{
+    padding: 2px 16px;
+  }
+
+.China-card-center{
+    padding: 2px 16px;
+  }
+
+.Greece-card-center{
+    padding: 2px 16px;
+  }
+
+.Italy-card-center{
+  padding: 2px 16px;
+}  
+
+
+.plastine-card-center{
+  padding: 2px 16px;
+}
+
+
+.japan-card-center{
+  padding: 2px 16px;
+}
+
+.france-card-center{
+  padding: 2px 16px;
+}
+
+.england-card-center{
+  padding: 2px 16px;
+}
+
+.south-korea-card-center{
+padding: 8px 16px;
+}  
+
+
+.Algeria-card-center{
+  padding: 2px 16px;
+}
+
+.turkey-card-center{
+  padding: 2px 16px;
+}
+
+.spain-card-center{
+  padding: 2px 16px;
+}
+
+.morocco-card-center{
+  padding: 2px 0px;
+}
+
+.india-card-center{
+  padding: 2px 16px;
+}
+
+
+.portugal-card-center{
+  padding: 2px 16px;
+}
+
+.brazil-card-center{
+  padding: 2px 16px;
+}
+
+.argentina-card-center{
+  padding: 2px 0px;
+}
+
+.colombia-card-center{
+  padding: 2px 0px;
+}
+
+.uruguay-card-center{
+  padding: 2px 0px;
+}
+
+.mexico-card-center{
+  padding: 2px 0px;
+}
+
+.united-states-card-center{
+  padding: 2px 0px;
+}
+
+.russia-card-center{
+  padding: 2px 0px;
+}
+
+.tunisia-card-center{
+  padding: 2px 0px;
+}
+
+.germany-card-center{
+  padding: 2px 0px;
+}
+
+
+.estonia-card-center{
+  padding: 2px 0px;
+}
+
+.lebanon-card-center{
+  padding: 2px 0px;
+}
+
+.canada-card-center{
+  padding: 2px 0px;
+}
+
+.qatar-card-center{
+  padding: 2px 0px;
+}
+
+.kuwait-card-center{
+  padding: 2px 0px;
+}
+
+.saudi-card-center{
+  padding: 2px 0px;
+}
+
+
+.emirates-card-center{
+  padding: 2px 0px;
+}
+
+
+.sudan-card-center{
+  padding: 2px 0px;
+}
+
+
+
+.syria-card-center{
+  padding: 2px 0px;
+}
+
+
+
+.mauritania-card-center{
+  padding: 2px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

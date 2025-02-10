@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(85 50 255);
+
+
+
+
+
+
+}
+
+
+.the-title{
+
+    text-align: center;
+    text-shadow: 5px 2px 3px rgb(167 167 255);
+    text-decoration: none  rgb(167 167 255);
+    font-size: 75px;
+    letter-spacing: 6px;
+    cursor:default;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+  }
+
+::selection{
+    background-color: rgb(90, 0, 158);
+    color: rgb(0, 0, 0);
+}
+
+div{
+    cursor: default;
+}
+
+h2{
+    text-decoration: underline;
+   
+
+
+}
+
+
+h3{ 
+    color:rgb(176, 176, 176);
+
+}
+
+
+.back{
+    border-radius: 4px;
+
+
+}
+
+.menu{
+    text-decoration: none;
+    color: black;
+
+
+}
+
+.timeline{
+    width: 400px;
+    height: 100px;
+    margin-left: 70%;
+}

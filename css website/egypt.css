@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(220, 209, 127);
+
+
+
+
+
+
+}
+
+
+.the-title{
+
+    text-align: center;
+    text-shadow: 5px 2px 3px rgb(255, 222,79);
+    text-decoration: none  yellow;
+    font-size: 75px;
+    letter-spacing: 6px;
+    cursor:default;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+  }
+  
+
+::selection{
+    background-color: black;
+    color: yellow;
+}
+
+div{
+    cursor: default;
+}
+
+.Narmer{
+    width: 125px;
+    height: 75px;
+    margin:0px;
+    border: 0px;
+    position:relative;
+    left: 90%;
+}
+
+.pyramids{
+    width: 125px;
+    height: 100px;
+    margin:0px;
+    border: 0px;
+    position:relative;
+    left: 80%;
+}
+
+.tut{
+    width: 125px;
+    height: 100px;
+    margin:0px;
+    border: 0px;
+    position:relative;
+    left: 80%;
+}
+.Ptolemies{  
+    width: 125px;
+    height: 100px;
+    margin:0px;
+    border: 0px;
+    position:relative;
+    left: 90%;
+
+}
+
+.about-egy{
+border-radius: 4px;
+}
+.about-egypt{
+text-decoration: none;
+color: black;
+}
+
+
+
+
