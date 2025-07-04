@@ -987,7 +987,7 @@ li a{
 
 .countries {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   gap: 120px 40px; 
   padding: 20px; 
 }
@@ -1863,7 +1863,7 @@ li a{
 
 .countries {
   display: grid;
-  grid-template-columns:repeat(2, 1fr);
+  grid-template-columns:repeat(1, 1fr);
   gap: 120px 40px; 
   padding: 20px; 
 }
