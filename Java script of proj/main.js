@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const searchQuery = event.target.value.toLowerCase();
 
-    const allCountries = document.querySelectorAll('.flip-card, .flip-card-2, .flip-card-3, .flip-card-33');
+    const allCountries = document.querySelectorAll('.flip-card');
 
     allCountries.forEach((country) => {
 
