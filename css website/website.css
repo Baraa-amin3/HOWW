@@ -111,64 +111,18 @@ li a{
 
 
 
-.countries{
-
-  text-align: center;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-/* justify-content: space-between; */
 
 
+  
 
-}    
-
-
-.countries div{
-  margin-left: 2.5% ;
-  margin-right: 2.5%;
+.countries {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 120px 40px; 
+  padding: 20px; 
 }
 
-.countries2{
 
-  text-align: center;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  /* justify-content: space-between; */
-
-  
-  
-  }    
-  
-  
-.countries2 div{
-    margin-left: 2.5% ;
-    margin-right: 2.5%;
- 
-
-  }
-
-
-.countries3{
-
-  text-align: center;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  /* justify-content: space-between; */
-
-    
-    
-    }    
-    
-    
-.countries3 div{
-      margin-left: 2.5% ;
-      margin-right: 2.5%;
-   
-  
-    }
 
 .Egypt1{
 text-decoration: none;
