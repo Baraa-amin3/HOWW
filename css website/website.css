@@ -576,6 +576,7 @@ color: rgb(112, 228, 137);
     width: 220px;
     position: relative;
     top: -130px;
+    left: 0px;
     display: flex;
     justify-content: end;
 
@@ -959,7 +960,7 @@ padding: 8px 16px;
     justify-content: space-between;
     padding: 0px 20px;
     position: relative;
-    top: -130px;
+    top: -110px;
     width: 100px;
     margin-bottom: -5%;
     font-weight: 100;
@@ -990,6 +991,8 @@ li a{
   grid-template-columns: repeat(1, 1fr);
   gap: 120px 40px; 
   padding: 20px; 
+  padding-left: 65px;
+
 }
 
 .Egypt1{
@@ -1444,6 +1447,8 @@ color: rgb(112, 228, 137);
     width: 220px;
     position: relative;
     top: 25px;
+    left: -45px;
+
     display: flex;
     justify-content: end;
 
@@ -1747,8 +1752,7 @@ padding: 8px 16px;
 
 
 
-
-
+/* phone */
 
 @media (max-width:767px) {
   body{
@@ -1767,7 +1771,7 @@ padding: 8px 16px;
     cursor:default;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: flex-start;
     
 }
 
@@ -1793,7 +1797,8 @@ padding: 8px 16px;
     border-radius: 4px;
     word-spacing: 24px;
     position: relative;
-    top: 0px;
+    top: 20px;
+    left: -40px;
     font-size: 10px;
     
   
@@ -1835,7 +1840,8 @@ padding: 8px 16px;
     justify-content: space-between;
     padding: 0px 20px;
     position: relative;
-    top: -130px;
+    top: -110px;
+    left: -10px;
     width: 100px;
     margin-bottom: -5%;
     font-weight: 100;
@@ -1866,6 +1872,7 @@ li a{
   grid-template-columns:repeat(1, 1fr);
   gap: 120px 40px; 
   padding: 20px; 
+  padding-left: 65px;
 }
 
 .Egypt1{
@@ -2319,7 +2326,8 @@ color: rgb(112, 228, 137);
     margin-left: 2%;
     width: 220px;
     position: relative;
-    top: 25px;
+    top: 85px;
+    left: 45px;
     display: flex;
     justify-content: end;
 
@@ -2619,7 +2627,7 @@ padding: 8px 16px;
 }
 
 
-
+/* tablet and small laptop */
 @media (min-width:768px ){
   body{
     background-color: rgb(3, 48, 39);
@@ -2637,7 +2645,7 @@ padding: 8px 16px;
     cursor:default;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: flex-end;
     
 }
 
@@ -2663,7 +2671,8 @@ padding: 8px 16px;
     border-radius: 4px;
     word-spacing: 6px;
     position: relative;
-    top: -110px;
+    top: -80px;
+    left:-15px;
   
 
 }
@@ -2702,7 +2711,8 @@ padding: 8px 16px;
     justify-content: space-between;
     padding: 0px 20px;
     position: relative;
-    top: -145px;
+    top: -110px;
+    left:40px;
     width: 280px;
     margin-bottom: -5%;
     font-weight: 400;
@@ -2729,7 +2739,7 @@ li a{
 
 .countries {
   display: grid;
-  grid-template-columns:repeat(5, 1fr);
+  grid-template-columns:repeat(3, 1fr);
   gap: 120px 40px; 
   padding: 20px; 
 }
@@ -3184,7 +3194,8 @@ color: rgb(112, 228, 137);
     margin-left: 80%;
     width: 220px;
     position: relative;
-    top: -130px;
+    top: -15px;
+    left: -235px;
     display: flex;
     justify-content: end;
 
@@ -3483,7 +3494,7 @@ padding: 8px 16px;
 
 }
 
-
+/* laptop */
 @media (min-width:992px) {
   body{
     background-color: rgb(3, 48, 39);
@@ -4049,6 +4060,7 @@ color: rgb(112, 228, 137);
     width: 220px;
     position: relative;
     top: -130px;
+    left: 0px;
     display: flex;
     justify-content: end;
 
@@ -4346,8 +4358,6 @@ padding: 8px 16px;
 }
 
 }
-
-
 
 
 
