@@ -1,4 +1,19 @@
+document.addEventListener('DOMContentLoaded', () => {
+    const countriesContainer = document.querySelector('.countries');
+    const flipCards = Array.from(countriesContainer.querySelectorAll('.flip-card'));
 
+    flipCards.sort((a, b) => {
+        const countryNameA = a.querySelector('a').textContent.trim();
+        const countryNameB = b.querySelector('a').textContent.trim();
+        return countryNameA.localeCompare(countryNameB);
+    });
+
+    // Clear the current content and append sorted cards
+    countriesContainer.innerHTML = '';
+    flipCards.forEach(card => {
+        countriesContainer.appendChild(card);
+    });
+});
 
 
 
