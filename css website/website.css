@@ -659,7 +659,15 @@ color: rgb(112, 228, 137);
 }
 
 
+.Costarica1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
 
+.Costarica1:hover{
+  color: rgb(0, 76, 207);
+}
 
 
 
@@ -1039,7 +1047,9 @@ padding: 8px 16px;
 }
 
 
-
+.Costarica-card-center{
+  padding: 2px 0px;
+}
 
 
 
