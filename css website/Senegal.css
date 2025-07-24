@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(233 160 0);
+
+
+
+
+
+
+}
+
+
+.the-title{
+
+    text-align: center;
+   
+    text-shadow:  5px 2px 3px rgb(236 220 53);
+    text-decoration: none  rgb(53 236 173);
+    font-size: 75px;
+    letter-spacing: 6px;
+    cursor:default;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+  }
+
+::selection{
+    background-color: rgb(0 158 40);
+    color: rgb(68 31 184);
+}
+
+
+div{
+    cursor: default;
+}
+
+h2{
+    text-decoration: underline;
+   
+
+
+}
+
+
+h3{ 
+    color:blue;
+
+}
+
+
+.back{
+    border-radius: 4px;
+
+
+}
+
+.menu{
+    text-decoration: none;
+    color: black;
+
+
+}
