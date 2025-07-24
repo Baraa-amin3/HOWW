@@ -550,6 +550,120 @@ color: rgb(112, 228, 137);
 }
 
 
+
+
+.Senegal1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.Senegal1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+
+
+.Bahrain1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.Bahrain1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+
+.Jordan1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.Jordan1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+
+
+
+.Oman1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.Oman1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+
+.Yemen1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.Yemen1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+.Djibouti1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.Djibouti1:hover{
+  color: rgb(109, 186, 136);
+}
+
+.Libya1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.YemLibya1en1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+
+.Somalia1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.Somalia1:hover{
+  color: rgb(0, 76, 207);
+}
+
+
+
+.Comoros1{
+  text-decoration: none;
+  font-size: 50px;
+  color: rgb(112, 228, 137);
+}
+
+.Comoros1:hover{
+  color: rgb(109, 186, 136);
+}
+
+
+
+
+
+
+
 .Soon{
   display: none;
 }
@@ -872,6 +986,60 @@ padding: 8px 16px;
 .mauritania-card-center{
   padding: 2px 0px;
 }
+
+
+
+.bahrain-card-center{
+  padding: 2px 0px;
+}
+
+
+.Senegal-card-center{
+  padding: 2px 0px;
+}
+
+
+
+.Jordan-card-center{
+  padding: 2px 0px;
+}
+
+
+
+
+
+.Oman-card-center{
+  padding: 2px 0px;
+}
+
+
+
+.Yemen-card-center{
+  padding: 2px 0px;
+}
+
+
+
+.Djibouti-card-center{
+  padding: 2px 0px;
+}
+
+
+.Libya-card-center{
+  padding: 2px 0px;
+}
+
+.Somalia-card-center{
+  padding: 2px 0px;
+}
+
+
+.Comoros-card-center{
+  padding: 2px 0px;
+}
+
+
+
 
 
 
