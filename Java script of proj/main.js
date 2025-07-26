@@ -88,5 +88,16 @@ document.querySelector('.Log-in').addEventListener('click', function () {
 
 
 
+  document.querySelectorAll('.flip-card').forEach(card => {
+    card.addEventListener('click', function(e) {
+      if (e.target.tagName.toLowerCase() === 'a') return;
+
+      const linkElement = card.querySelector('a');
+      if (linkElement) {
+        const url = linkElement.getAttribute('href');
+        window.open(url, '_blank');
+      }
+    });
+  });
 
 
