@@ -69,6 +69,7 @@ div{
 
 .tooltip-container {
     position: relative;
+    top: 110px;
     cursor: pointer;
     transition: all 0.2s;
     font-size: 17px;
@@ -78,6 +79,21 @@ div{
     margin-bottom: 50px;
   }
   
+
+.tooltip-container5 {
+    width: 50%;
+    position: relative;
+    left: -150px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 17px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+
+
   .tooltip {
     position: absolute;
     top: 0;
@@ -107,6 +123,15 @@ div{
     pointer-events: auto;
   }
   
+
+  .tooltip-container5:hover .tooltip {
+    top: -150px;
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+
   .icon {
     text-decoration: none;
     color: #fff;
@@ -306,6 +331,22 @@ div{
     margin-bottom: 50px;
   }
   
+.tooltip-container6 {
+    width: 50%;
+    position: relative;
+    left: -150px;
+    top: -100px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 17px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+
+
+
   .tooltip2 {
     position: absolute;
     top: 0;
@@ -335,6 +376,14 @@ div{
     pointer-events: auto;
   }
   
+
+  .tooltip-container6:hover .tooltip2 {
+    top: -150px;
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
   .icon2 {
     text-decoration: none;
     color: #fff;
@@ -484,6 +533,7 @@ div{
 
 .tooltip-container3 {
     position: relative;
+    top: -100px;
     cursor: pointer;
     transition: all 0.2s;
     font-size: 17px;
@@ -492,6 +542,18 @@ div{
     justify-content: center;
   }
   
+.tooltip-container4 {
+    width: 50%;
+    position: relative;
+    left: -150px; top: -160px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 17px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+  }
+
   .tooltip3 {
     position: absolute;
     top: 0;
@@ -521,6 +583,15 @@ div{
     pointer-events: auto;
   }
   
+  .tooltip-container4:hover .tooltip3 {
+    top: -150px;
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+
+
   .icon3 {
     text-decoration: none;
     color: #fff;
