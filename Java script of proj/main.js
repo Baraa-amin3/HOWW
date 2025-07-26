@@ -75,3 +75,18 @@ btn.onclick = function(){
 }
 
 
+
+document.querySelector('.Log-in').addEventListener('click', function () {
+    window.location.href = "log in/LogIn.html";
+  });
+
+  document.querySelector('.Sign-Up').addEventListener('click', function () {
+    window.location.href = "sign up/SignUp.html";
+  });
+
+
+
+
+
+
+
