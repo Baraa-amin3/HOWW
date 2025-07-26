@@ -1,0 +1,6 @@
+@APIForBaraaWebsite_HostAddress = http://localhost:5194
+
+GET {{APIForBaraaWebsite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
