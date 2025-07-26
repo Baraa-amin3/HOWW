@@ -47,3 +47,31 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 });
+
+
+
+
+
+
+let btn = document.querySelector(".UP")
+
+window.onscroll = function (){
+
+    if(window.scrollY >= 2000){
+
+
+        btn.style.display ="block"
+    }
+    else{
+        btn.style.display ="none"
+
+    }
+}
+btn.onclick = function(){
+    window.scrollTo({
+        left: 0,top: 0,
+        behavior:"smooth"
+    })
+}
+
+
