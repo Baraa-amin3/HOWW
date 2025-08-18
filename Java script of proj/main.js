@@ -87,7 +87,7 @@ document.querySelector('.Log-in').addEventListener('click', function () {
 
 
 
-
+if (window.matchMedia("(min-width: 992px)").matches) {
   document.querySelectorAll('.flip-card').forEach(card => {
     card.addEventListener('click', function(e) {
       if (e.target.tagName.toLowerCase() === 'a') return;
@@ -99,5 +99,6 @@ document.querySelector('.Log-in').addEventListener('click', function () {
       }
     });
   });
+}
 
 
